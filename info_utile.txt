@@ -1,0 +1,10 @@
+Controlleur de version:
+
+lien git: https://jjghali_dev@game-vc.git.cloudforge.com/jeux.git
+lien git ssh git: ssh://git_game-vc@game-vc.git.cloudforge.com/jeux.git
+lien svn: https://game-vc.svn.cloudforge.com/jeux
+
+Lwjgl:
+
+http://lwjgl.org/index.php
+http://lwjgl.org/wiki/index.php?title=Main_Page#Getting_started
