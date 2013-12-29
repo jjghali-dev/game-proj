@@ -8,3 +8,7 @@ Lwjgl:
 
 http://lwjgl.org/index.php
 http://lwjgl.org/wiki/index.php?title=Main_Page#Getting_started
+
+2D platformer tutorial
+
+http://www.wildbunny.co.uk/blog/2011/12/11/how-to-make-a-2d-platform-game-part-1/
